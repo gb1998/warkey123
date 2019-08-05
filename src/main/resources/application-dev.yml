@@ -1,0 +1,6 @@
+name: 习近平
+age : 56
+adress: 北京
+spring:
+ profiles:
+  active: test
