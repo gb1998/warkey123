@@ -26,5 +26,6 @@ public class User {
     private String adrress;//用户地址
     private String description;//备注-描述
     private Date birthDay;//出生天数；
+    private String test;//测试
 
 }
