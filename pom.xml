@@ -37,7 +37,7 @@
         <dependency>
             <groupId>com.mchange</groupId>
             <artifactId>c3p0</artifactId>
-            <version>RELEASE</version>
+            <version>0.9.5.4</version>
         </dependency>
 
         <!--spring操作数据库jpa  用于将数据存入数据库的类和方法的集-->
